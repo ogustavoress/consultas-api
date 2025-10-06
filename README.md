@@ -3,8 +3,9 @@ API REST para sistema de agendamento de consultas, desenvolvida em **Spring Boot
 Este projeto faz parte dos checkpoints da disciplina de *Microsservice and Web Engineering*.
 
 ## Participante
-**Nome:** Gustavo Carvalho.
-**RM** 550983.
+**Nome:** Gustavo Carvalho, **RM** 550983
+**Nome:** Leticia Vitalino, **RM** 552481
+**Nome:** Gabriel Valério, **RM** 552041
 **Turma:** 3SIR.
 
 ## Escopo do Projeto
