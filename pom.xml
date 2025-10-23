@@ -7,10 +7,10 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.fiap</groupId>
+	<groupId>com.github.ogustavoress</groupId>
 	<artifactId>consultas-api</artifactId>
-	<version>1.0.0</version>
-	<name>checkpoint2</name>
+	<version>0.1.2</version>
+	<name>checkpoint2s2</name>
 	<description>Checkpoint 2</description>
 	<url/>
 	<licenses>
