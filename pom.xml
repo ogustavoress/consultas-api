@@ -9,9 +9,9 @@
 	</parent>
 	<groupId>com.github.ogustavoress</groupId>
 	<artifactId>consultas-api</artifactId>
-	<version>0.1.2</version>
-	<name>checkpoint2s2</name>
-	<description>Checkpoint 2</description>
+	<version>0.2.2</version>
+	<name>checkpoint3s2</name>
+	<description>Checkpoint 3</description>
 	<url/>
 	<licenses>
 		<license/>

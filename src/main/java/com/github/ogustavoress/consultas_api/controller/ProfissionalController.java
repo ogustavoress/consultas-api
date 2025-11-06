@@ -20,7 +20,7 @@ import com.github.ogustavoress.consultas_api.service.ProfissionalService;
 import io.swagger.v3.oas.annotations.parameters.RequestBody;
 
 @RestController
-@RequestMapping("/profissionais")
+@RequestMapping("/api/v0.2.2/profissionais")
 public class ProfissionalController {
 
     @Autowired
