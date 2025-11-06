@@ -20,7 +20,7 @@ import com.github.ogustavoress.consultas_api.service.PacienteService;
 import io.swagger.v3.oas.annotations.parameters.RequestBody;
 
 @RestController
-@RequestMapping("/pacientes")
+@RequestMapping("/api/v0.2.2/pacientes")
 public class PacienteController {
 
     @Autowired

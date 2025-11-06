@@ -21,7 +21,7 @@ import com.github.ogustavoress.consultas_api.service.ConsultaService;
 import io.swagger.v3.oas.annotations.parameters.RequestBody;
 
 @RestController
-@RequestMapping("consultas")
+@RequestMapping("/api/v0.2.2/consultas")
 public class ConsultaController {
 
     @Autowired
